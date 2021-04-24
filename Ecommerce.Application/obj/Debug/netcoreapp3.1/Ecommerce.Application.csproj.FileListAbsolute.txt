@@ -1,0 +1,4 @@
+C:\Users\Asus\source\repos\Ecommerce.Ui\Ecommerce.Application\obj\Debug\netcoreapp3.1\Ecommerce.Application.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Ecommerce.Ui\Ecommerce.Application\obj\Debug\netcoreapp3.1\Ecommerce.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Ecommerce.Ui\Ecommerce.Application\obj\Debug\netcoreapp3.1\Ecommerce.Application.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Ecommerce.Ui\Ecommerce.Application\obj\Debug\netcoreapp3.1\Ecommerce.Application.csproj.CoreCompileInputs.cache
